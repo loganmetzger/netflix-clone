@@ -1,7 +1,10 @@
-import React from 'react'
+import React from "react";
+import { Inner } from "./styles/jumbotron";
 
 export default function jumbotron() {
-    return (
-        <p>I am the jumbo</p>
-    )
+  return (
+    <Inner>
+      <p>hello</p>
+    </Inner>
+  );
 }
