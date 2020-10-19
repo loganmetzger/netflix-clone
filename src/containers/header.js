@@ -1,6 +1,6 @@
 import React from 'react';
 import { Header } from '../components';
-import { Logo } from '../components/header/styles/header';
+// import { Logo } from '../components/header/styles/header';
 import * as ROUTES from '../constants/routes';
 import logo from '../logo.svg'; 
 
