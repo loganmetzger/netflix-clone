@@ -87,6 +87,7 @@ export const Item = styled.div`
   flex-direction: column;
   margin-right: 5px;
   position: relative;
+  
   cursor: pointer;
   transition: transform 0.2s;
 
