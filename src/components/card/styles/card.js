@@ -20,6 +20,7 @@ export const Container = styled.div`
       margin-left: 30px;
     }
   }
+  
 
   &:last-of-type {
     margin-bottom: 0;
